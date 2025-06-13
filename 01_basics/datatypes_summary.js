@@ -35,4 +35,9 @@ console.log(typeof(outsideTemp))
 console.log(typeof(myObj))
 console.log(typeof(muFunction))
 // dont have to define the variable datatype thats why it is dynamically typed languange
+ 
 
+let id3=1
+let id2 = 1
+
+console.log(id3===id2)
