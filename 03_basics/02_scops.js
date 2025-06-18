@@ -15,7 +15,7 @@ if(true){
 
 // console.log(a);
 // console.log(b);
-// console.log(c); //var local me hai but global me bhi value de raha hai isliye isse use nhi kate
+// console.log(c); //var local me hai but global me bhi value de raha hai isliye isse use nhi karte , var ka scope hai completly global
 
 let a =300
 if(true){
