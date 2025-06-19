@@ -66,8 +66,11 @@ const balance = 1000
 // const debitCard = true
 
 
-// if (isUserLoggedIn && debitcard){
+// if (isUserLoggedIn || debitcard && 2=="2"){
 //     console.log("Allow to buy course");
     
 // }
+
+
+
 
